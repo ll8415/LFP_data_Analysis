@@ -19,13 +19,6 @@ It supports waveform plotting, power spectral density (PSD) analysis, continuous
   pip install neo numpy scipy matplotlib quantities pywt
   ```
 
-## How to Run
-1. Save the script (`lfp_gui_runner_compat_v6_en.py`) in your working directory.  
-2. Open a terminal and run:
-   ```bash
-   python lfp_gui_runner_compat_v6_en.py
-   ```
-3. The GUI window will appear.
 
 ## Usage
 1. **Load Data**: Click "Open" and select your LFP file.  
