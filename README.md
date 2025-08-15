@@ -18,7 +18,8 @@ It supports waveform plotting, power spectral density (PSD) analysis, continuous
   ```bash
   pip install neo numpy scipy matplotlib quantities pywt
   ```
-![Uploading image.png…]()
+<img width="1778" height="1218" alt="2025-08-15 164345" src="https://github.com/user-attachments/assets/94c1e36d-151f-4fd4-afe4-d334680791dd" />
+
 
 
 ## Notes
