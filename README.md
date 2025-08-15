@@ -20,14 +20,6 @@ It supports waveform plotting, power spectral density (PSD) analysis, continuous
   ```
 
 
-## Usage
-1. **Load Data**: Click "Open" and select your LFP file.  
-2. **Select Channel**: Choose the desired channel from the dropdown.  
-3. **Plot Signal**: Click "Plot Signal" to visualize the LFP waveform.  
-4. **PSD Analysis**: Click "Plot PSD" to see the frequency-domain representation.  
-5. **Wavelet Analysis**: Select a time point and click "Plot CWT".  
-6. **Multi-band Analysis**: Choose start time, duration, and channel; click "Plot Multi-band".  
-
 ## Notes
 - Ensure your LFP file is in a Neo-supported format (e.g., `.ns5`, `.nix`, `.h5`).  
 - `t_start` and `t_stop` must be within the duration of the recorded signal.  
